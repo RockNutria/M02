@@ -1,3 +1,6 @@
+#3/31/2024
+#Zachary Bergman
+#this program allows names and gpa to be entered in and then returns wether or not the student meets requirements for honors or deans list
 deans_list_count = 0
 honor_roll_count = 0
 
